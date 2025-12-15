@@ -1,0 +1,2 @@
+- Compile the test with C++23 using `g++ -std=c++23 main.cpp graph.cpp -o graph_test`
+- Run the test `./graph_test`
